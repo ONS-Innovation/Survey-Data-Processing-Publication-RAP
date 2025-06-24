@@ -8,5 +8,8 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ONS-Innovation/Survey-Data-Processing-Publication-RAP
+  links:
+    - url: https://codespaces.new/ONS-Innovation/Data-Ingestion-Validation-RAP-Module
+      title: Open Development Environment  
 spec:
   owner: "group:default/spotify-backstage-trial-team"
