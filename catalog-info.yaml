@@ -8,7 +8,6 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ONS-Innovation/Survey-Data-Processing-Publication-RAP
-  
   links:
     - url: https://app.pluralsight.com/channels/details/782e7f7b-03db-44eb-8462-cf5673e10b23?s=1
       title: Supportd Learning Pathway
