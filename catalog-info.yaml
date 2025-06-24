@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Survey-Data-Processing-Publication-RAP
+  description: "This pipeline automates the end-to-end processing of survey data—from raw ingestion to statistical output and publication. It ensures reproducibility, and efficiency in producing official statistics. The pipeline is designed to be modular, supporting both internal quality assurance and external publication standards."
+  tags:
+    - pipeline
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: ONS-Innovation/Survey-Data-Processing-Publication-RAP
+spec:
+  owner: "group:default/spotify-backstage-trial-team"
