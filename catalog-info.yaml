@@ -8,5 +8,12 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ONS-Innovation/Survey-Data-Processing-Publication-RAP
+    links:
+    - url: https://app.pluralsight.com/channels/details/782e7f7b-03db-44eb-8462-cf5673e10b23?s=1
+      title: Supportd Learning Pathway
+    - url: https://officenationalstatistics.sharepoint.com/sites/ONS_DDaT_Communities/SitePages/SE%20-%20Principles,%20Policies,%20Guidelines%20&%20more.aspx?csf=1&web=1&share=EQI8qpmdcZ1MvVA__6yKAtgBkWCMhU-pty-SBeAs1KVAEQ&e=jlgchY
+      title: Principles/Policies
+      icon: code
+      type: source
  spec:
   owner: "group:default/spotify-backstage-trial-team"
