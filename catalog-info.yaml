@@ -14,6 +14,7 @@ metadata:
       title: Supportd Learning Pathway
     - url: https://officenationalstatistics.sharepoint.com/sites/ONS_DDaT_Communities/SitePages/SE%20-%20Principles,%20Policies,%20Guidelines%20&%20more.aspx?csf=1&web=1&share=EQI8qpmdcZ1MvVA__6yKAtgBkWCMhU-pty-SBeAs1KVAEQ&e=jlgchY
       title: Principles/Policies
-      icon:  security  
+      icon: code
+      type: source
 spec:
   owner: "group:default/spotify-backstage-trial-team"
