@@ -15,5 +15,6 @@ metadata:
       title: SEP Principles, Policies & Guidelines  
     - url: https://app.pluralsight.com/channels/details/782e7f7b-03db-44eb-8462-cf5673e10b23?s=1
       title: Learning Pathway  
+      icon: help
 spec:
   owner: "group:default/spotify-backstage-trial-team"
